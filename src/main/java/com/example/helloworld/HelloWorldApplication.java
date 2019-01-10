@@ -10,5 +10,5 @@ public class HelloWorldApplication {
 		SpringApplication.run(HelloWorldApplication.class, args);
 	}
 }
-
+//jemmy still smells
 

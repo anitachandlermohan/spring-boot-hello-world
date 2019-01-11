@@ -41,6 +41,6 @@ You will need the gcloud SDK installed and a free trial or subscription to Googl
     ```
 - The Deployment and Service for the application can be made by running this command fromt the project root:
     ```bash
-    hihihihihi
+  
     kubectl create -f kubernetes 
     ```
